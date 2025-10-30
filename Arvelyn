@@ -1,1 +1,154 @@
---[[ v1.0.0 https://wearedevs.net/obfuscator ]] return(function(...)local I={"\048\099\078\050\043\048\120\097\085\057\109\084\083\057\052\061";"\048\099\078\071\083\072\120\067\101\122\061\061","\049\057\108\097\083\057\053\061";"\049\114\120\089\098\055\066\112","\048\099\078\107\043\055\121\061";"\068\055\066\108\052\048\085\105\052\117\067\090\083\114\065\105\082\086\061\061","\120\067\043\081\043\057\099\073";"\085\057\078\081\085\069\104\071\083\072\049\061";"\105\069\120\115\049\087\085\067\085\122\061\061";"\120\109\065\099\119\106\109\067\085\081\067\043\105\115\078\105\085\086\061\061";"","\117\115\109\099\105\052\067\073\086\072\078\050\083\067\071\097\098\109\116\061";"\049\072\117\050\083\114\043\067","\083\055\109\115\098\122\061\061","\083\106\087\061";"\050\076\073\088\121\078\053\115\110\122\115\104\118\097\065\054\122\079\055\050\112\105\084\070\081\051\048\120\109\053\050\101\090\047\121\050\053\077\079\104\098\085\097\097\116\054\047\119\088\082\056\070\048\067\097\108\097\120\117\083\070\115\112\117\081\068\050\089\049\079\088\066\087\110\099\112\066\050\080\108\116\079\048\086\112\054\069\071\075\090\078\078\117\054\074\057\104\117\118\100\056\069\107\061";"\083\057\078\097\043\069\108\115\049\072\067\054\043\053\061\061";"\085\057\078\054\085\055\099\084\043\048\116\061","\052\099\119\061";"\117\057\109\050\049\057\117\089\116\087\120\067\085\057\117\073\085\057\117\070\116\086\061\061","\068\082\116\099\119\109\097\117\117\069\043\115\055\106\117\099\085\056\061\061","\043\100\109\050\043\086\061\061","\082\072\104\086\052\073\085\081\043\048\104\081\119\114\067\070","\105\055\117\087\052\070\067\105\076\048\109\082\108\114\104\055","\085\055\066\053\076\055\108\080";"\083\057\117\054";"\076\100\097\097\049\056\061\061","\083\106\116\061","\105\072\102\097\082\099\065\102\049\117\117\055\068\057\071\089\086\086\061\061";"\049\072\109\054\043\057\078\050";"\043\114\108\099\076\056\061\061";"\076\112\067\115\043\086\061\061";"\105\115\117\071\086\114\104\097\049\082\109\087\052\081\097\097\083\100\053\061","\043\072\102\088\083\114\116\061","\043\100\099\097\085\057\108\113";"\043\069\065\057\098\073\117\104\076\072\107\100\085\100\078\105";"\105\112\097\076\098\070\066\117\101\072\070\066\117\082\043\073";"\083\057\050\048\076\099\104\121\117\115\071\081\043\117\108\087\098\086\061\061";"\043\048\104\089\083\114\116\061";"\048\099\078\112\076\053\061\061","\068\084\056\067\043\051\113\071\068\056\061\061","\085\057\109\084\083\057\052\061","\049\100\117\115\083\055\117\115\076\048\120\097\076\072\102\067","\068\056\061\061";"\068\057\097\113","\076\100\078\054\076\100\109\115","\119\052\052\114\086\081\049\061"}local function A(A)return I[A-(336360-308062)]end for A,u in ipairs({{-683232-(-683233);594917-594870},{-536104-(-536105);151342-151325},{-17059-(-17077);112301+-112254}})do while u[662792+-662791]<u[-349776-(-349778)]do I[u[-627588-(-627589)]],I[u[-904061+904063]],u[339682+-339681],u[72931-72929]=I[u[-340609-(-340611)]],I[u[715199+-715198]],u[538061+-538060]+(-1021725+1021726),u[1004369-1004367]-(216264-216263)end end do local A=I local u=string.sub local b=table.insert local e=string.len local s={["\052"]=-1019716-(-1019736),J=-990014+990056,h=-403160-(-403169);U=-657516+657545;["\049"]=567359+-567331,r=-603174+603229,m=-705240-(-705245);y=-47467+47523,w=-490929+490941;["\050"]=-382463+382508;W=916490-916486,X=-110878+110925,M=698042-697979,L=-541262+541286;t=-652269+652277,["\057"]=-1042723-(-1042729),l=-889282+889295,b=-793443+793469;A=-412442-(-412443),["\048"]=935800-935777;p=-1036354-(-1036393);z=-958106+958106;g=100949-100939;Y=-279348+279398,Q=-643095+643146;C=331584+-331547;d=910259-910205;E=263938-263931,F=448589+-448553,["\043"]=17665+-17640;T=163406+-163372;B=-884376+884433,a=-557482-(-557515),["\054"]=-618033-(-618079),K=-732791-(-732822),n=785677-785619,H=673527+-673489;x=677679-677662,["\055"]=67393-67371;R=-736835+736854,["\053"]=-124096-(-124144);c=-912169+912222;S=819410-819383;f=76124-76075;e=638052+-638022;P=-280727+280770,V=-574447-(-574463),N=-259479+259540;I=-912526+912561;j=965617-965614,o=821547-821488,["\047"]=-183111+183126,O=562172+-562112,v=-53291-(-53353);Z=-555573-(-555584);i=-427135+427153;s=-758292+758344;["\056"]=1032917+-1032885,k=-605083-(-605127),D=-951842+951856,u=-581686+581707,["\051"]=-28229+28231;q=-834644+834684;G=-215968-(-216009)}local U=math.floor local R=string.char local a=table.concat local H=type for I=-110437+110438,#A,-932060-(-932061)do local g=A[I]if H(g)=="\115\116\114\105\110\103"then local H=e(g)local Y={}local m=422942+-422941 local w=365996-365996 local p=-55620+55620 while m<=H do local I=u(g,m,m)local A=s[I]if A then w=w+A*(-296497-(-296561))^((-428051-(-428054))-p)p=p+(957441-957440)if p==819915-819911 then p=162627+-162627 local I=U(w/(-138649+204185))local A=U((w%(163300+-97764))/(-427666+427922))local u=w%(397627+-397371)b(Y,R(I,A,u))w=443277+-443277 end elseif I=="\061"then b(Y,R(U(w/(318840+-253304))))if m>=H or u(g,m+(-47257+47258),m+(751226-751225))~="\061"then b(Y,R(U((w%(-926208-(-991744)))/(239974-239718))))end break end m=m+(201016-201015)end A[I]=a(Y)end end end return(function(I,b,e,s,U,R,a,X,H,q,B,j,m,u,W,p,g,J,w,Y)j,J,B,W,g,Y,p,X,u,w,m,q,H=function(I,A)local b=w(A)local e=function(e,s,U,R,a)return u(I,{e;s,U,R;a},A,b)end return e end,function(I,A)local b=w(A)local e=function(e,s,U,R)return u(I,{e;s;U;R},A,b)end return e end,function(I,A)local b=w(A)local e=function(e,s)return u(I,{e;s},A,b)end return e end,function(I)g[I]=g[I]-(-702517+702518)if g[I]==-303626-(-303626)then g[I],H[I]=nil,nil end end,{},function()m=m+(-704899+704900)g[m]=-137962-(-137963)return m end,function(I)local A,u=-339535-(-339536),I[615560+-615559]while u do g[u],A=g[u]-(-450403-(-450404)),A+(-914223+914224)if-822225+822225==g[u]then g[u],H[u]=nil,nil end u=I[A]end end,function(I,A)local b=w(A)local e=function()return u(I,{},A,b)end return e end,function(u,e,s,U)local E,Q,z,m,O,T,K,N,M,n,w,a,l,G,p,k,L,g,C,v,V,q,Z,i,P,r,F,y,S,d,c,x,t,h while u do if u<523002+9244527 then if u<-70683+6861004 then if u<-196937+4091412 then if u<-795238+2328423 then if u<909103+-313404 then if u<-876979+1094944 then if u<411729-249782 then G=W(G)n=W(n)m=W(m)p=W(p)w=W(w)i=W(i)v=nil v=922994-922993 K=nil F=nil w=nil n=Y()F=A(-22474-(-50784))m=nil Q=nil l=nil q=W(q)N=W(N)u=648348+5935956 h=nil h=A(1022974-994645)q=I[h]Q={}N=A(700455+-672126)h=A(197463+-169161)p=q[h]i=A(-126007-(-154326))q=Y()H[q]=p h=I[N]N=A(973344-944999)p=h[N]N=I[F]F=A(-971862+1000190)l=Y()G=-919863+920119 h=N[F]F=I[i]i=A(-723850-(-752192))K={}N=F[i]F=-680882+680882 i=Y()H[i]=F F=-306152+306154 H[n]=F F={}t=G H[l]=K K=-153080+153080 G=-456841+456842 y=G G=-381971+381971 Z=y<G G=v-y else Q=not l n=n+K F=n<=i F=Q and F Q=n>=i Q=l and Q F=Q or F Q=14469423-705784 u=F and Q F=17412016-886947 u=u or F end else p=-147850+147851 q=-664061-(-664063)m=H[s[-546141+546142]]w=m(p,q)m=-980085-(-980086)g=w==m u=g and 975381+9323834 or 300854+14460766 a=g end else if u<1804999-716003 then m=H[s[662940+-662937]]w=-351972-(-352158)g=m*w u=7033817-(-440873)m=77468-77211 a=g%m H[s[545086-545083]]=a else u=14974245-(-316639)end end else if u<716647+1975926 then if u<-294578+2408199 then t=-132871-(-132871)G=#Q v=G==t u=292957+14293850 else u=I[A(-67310+95635)]a={}end else if u<4567914-906340 then u=H[s[-895976+895986]]m=H[s[-536531+536542]]g[u]=m u=H[s[708360-708348]]m={u(g)}u=I[A(-250209+278545)]a={b(m)}else u=-368400-(-518448)end end end else if u<-1025219+6780654 then if u<669627+4424513 then if u<103374+4033301 then if u<-94791+4141632 then k=86371+-86370 E=c[k]u=8171093-572800 L=E else a={}u=true H[s[253138-253137]]=u u=I[A(829405+-801078)]end else y=not t M=M+P a=M<=r a=y and a y=M>=r y=t and y a=y or a y=-260047+12096083 u=a and y a=5427781-(-676103)u=u or a end else if u<6069011-762202 then w=38941-38909 m=H[s[610093+-610090]]g=m%w K=264703-264690 p=H[s[72785+-72781]]N=H[s[-321049-(-321051)]]i=-901796+901798 v=H[s[347063+-347060]]Q=v-g v=-440989+441021 l=Q/v n=K-l F=i^n h=N/F q=p(h)p=-806785+4295774081 w=q%p F=921168-921167 q=336225-336223 p=q^g m=w/p p=H[s[-810520+810524]]K=274153+-273897 N=m%F F=4294067502-(-899794)h=N*F g=nil q=p(h)p=H[s[-361282+361286]]h=p(m)w=q+h q=-454744+520280 p=w%q N=136557+-71021 h=w-p i=202173-201917 q=h/N m=nil N=-386831-(-387087)h=p%N F=p-h N=F/i i=446550+-446294 F=q%i p=nil n=q-F q=nil i=n/K u=7495039-(-608905)w=nil n={h,N;F;i}F=nil H[s[-910316-(-910317)]]=n N=nil i=nil h=nil else G=Y()Z=A(203618+-175307)S=A(-247723+276040)y=Y()h=nil v={}N=nil F=nil t=j(-1048034+10703256,{G,i,n;q})k=nil c=A(11041+17275)H[G]=v v=Y()H[v]=t K=nil Q=nil T={}t={}H[y]=t t=I[Z]C=H[y]O={[S]=C;[c]=k}N=A(939380-911043)Z=t(T,O)p=nil t=B(9203055-(-840866),{y;G,l;i;n,v})m=t y=W(y)w=Z i=W(i)G=W(G)K=-324367+19298538264105 a={}n=W(n)v=W(v)q=W(q)n=A(-459801-(-488132))l=W(l)q=A(900434+-872102)p=I[q]h=I[N]u=I[A(-285474-(-313780))]i=m(n,K)F=w[i]m=nil i=true w=nil n=A(288597-260273)n=h[n]N={n(h,F,i)}q=p(b(N))p=q()end end else if u<5282650-(-775617)then if u<811210+5165908 then n=A(-72950-(-101290))i=I[n]u=705021+14904647 a=i else t=A(845824-817481)u=I[t]t=A(897696-869366)I[t]=u u=15391006-(-261177)end else if u<-115743+6275316 then r=H[m]u=r and 948554+9514359 or-504884+11393122 M=r else G=G+y T=not Z v=G<=t v=T and v T=G>=t T=Z and T v=T or v T=1008402+14188283 u=v and T v=956391+1018889 u=u or v end end end end else if u<-720282+9043790 then if u<7837218-(-26173)then if u<8235268-697382 then if u<6857265-(-554949)then if u<514583+6519027 then H[s[-438814+438819]]=a u=9189303-884948 g=nil else u={}H[s[-65391-(-65393)]]=u q=35184372916395-827563 N=6250+-5995 a=H[s[897643-897640]]F=A(-11545-(-39864))p=a a=m%q H[s[932131+-932127]]=a h=m%N u=-330851-(-495825)N=783915+-783913 q=h+N H[s[458220-458215]]=q N=I[F]F=A(747441-719100)h=N[F]N=h(g)n=-71427-(-71428)F=-133112-(-133113)h=A(1023173+-994847)w[m]=h K=n h=-169410+169623 i=N n=375710+-375710 l=K<n n=F-K end else m=H[s[436141-436138]]w=87311+-87310 g=m~=w u=g and 4607205-(-601630)or 136237-(-764405)end else if u<7587102-(-27394)then H[m]=L z=H[O]d=-54823+54824 x=z+d k=c[x]E=K+k k=-873585-(-873841)u=E%k K=u x=H[T]k=l+x x=-884982+885238 E=k%x l=E u=10519462-(-420609)else u=10165510-(-774561)H[m]=a end end else if u<8407507-147983 then if u<8993679-850578 then w=A(-636507+664817)m=I[w]w=A(-548260-(-576588))u=I[A(-375161+403499)]g=m[w]w=H[s[155419-155418]]m={g(w)}a={b(m)}else u=true u=12664569-772985 end else if u<-411643+8695200 then a=i u=n u=i and-421112+16030780 or 6324072-505732 else u=H[s[-718907-(-718914)]]u=u and 15233403-767917 or-495819+9824791 end end end else if u<533427+8679212 then if u<-93241+8637838 then if u<8636530-225414 then if u<716380+7660683 then z=-622071+622073 x=c[z]z=H[C]k=x==z u=11457303-(-520318)L=k else u=true u=u and 12140484-911443 or 3096614-459213 end else w=11985959-(-571180)a=-84517+14832948 m=A(564125-535810)g=m^w u=a-g a=A(871338-843016)g=u u=a/g a={u}u=I[A(-458478+486779)]end else if u<-502043+9196035 then a=A(942800-914457)g=A(1059426-1031096)u=I[a]a=I[g]g=A(880255-851925)I[g]=u g=A(-218975-(-247318))I[g]=a g=H[s[207962+-207961]]m=g()u=1037609+10259026 else a=168426+4847452 w=-491857+10370619 m=A(-430737+459050)g=m^w u=a-g a=A(818337+-790003)g=u u=a/g a={u}u=I[A(-681357+709696)]end end else if u<871524+8573165 then if u<9297876-(-24600)then L=H[m]a=L u=L and 147515+10874847 or 907337+6775628 else u={}w=H[s[-602073+602082]]g=u m=-592846-(-592847)p=w w=-767773+767774 q=w u=37367+9694741 w=-410565+410565 h=q<w w=m-q end else if u<10215267-512050 then g=H[s[-952237-(-952238)]]a=#g g=357456-357456 u=a==g u=u and 13272086-249221 or-148217+8252161 else N=not h w=w+q m=w<=p m=N and m N=w>=p N=h and N m=N or m N=-1029863+12771399 u=m and N m=40536+2682769 u=u or m end end end end end else if u<11840607-(-274276)then if u<11445285-411612 then if u<-803334+11292826 then if u<317825+10138100 then if u<10045367-(-386721)then if u<579581+9694730 then m=e[-370736+370738]g=e[50336-50335]u=H[s[154868-154867]]w=u u=w[m]u=u and 2153694-825310 or 703888+6475446 else u=a and-751447+11207897 or-287771+8592126 end else t=-96976+96976 G=#Q v=G==t u=v and-179848+5884370 or 14551294-(-35513)end else if u<-903843+11362619 then a=A(-956783-(-985116))i=j(9109927-(-50862),{})u=I[a]p=A(223205+-194882)g=H[s[380589-380585]]F=A(519398+-491080)w=I[p]N=I[F]F={N(i)}h={b(F)}N=342155-342153 q=h[N]p=w(q)w=A(166167+-137858)m=g(p,w)g={m()}a=u(b(g))g=a m=H[s[95037+-95032]]a=m u=m and 15628021-365512 or 7678474-833009 else r=K==l u=10400705-(-487533)M=r end end else if u<11817645-894077 then if u<1026651+9848555 then u=7885441-(-516085)else H[m]=M u=H[m]u=u and 3990879-147750 or 8034926-(-116257)end else if u<10279213-(-734667)then O=W(O)y=W(y)c=nil u=-112428+4739209 Z=W(Z)C=W(C)T=W(T)S=W(S)else E=u z=-181302+181303 x=c[z]z=false k=x==z L=k u=k and 8249684-(-96746)or 11860012-(-117609)end end end else if u<11875024-164741 then if u<11078087-(-280967)then if u<12119391-834481 then if u<617106+10611020 then y=A(392972+-364642)P=A(233827-205504)u=I[P]t=I[y]P=u(t)u=A(-245086-(-273429))I[u]=P u=92369+15559814 else u=H[N]P=466093+-466092 t=1491-1485 r=u(P,t)u=A(-772581+800924)t=A(-128704+157047)I[u]=r P=I[t]t=552930+-552928 u=P>t u=u and 410655+10628595 or 764445+5224695 end else u=true u=u and 286450+8370163 or 12141911-749930 end else if u<11087983-(-313961)then u=I[A(990611-962307)]a={}else u=620853+10675782 end end else if u<-720726+12570934 then if u<997240+10792156 then u=H[s[234272+-234271]]F=-521738-(-521738)m=w i=-991762+992017 N=u(F,i)g[m]=N m=nil u=9996392-264284 else y=Y()d=365521-365521 Z=A(579420+-551091)H[y]=M a=I[Z]Z=A(-1011474-(-1039819))T=-432468-(-432568)C=-985208+985209 O=279441-279186 u=a[Z]Z=577651+-577650 a=u(Z,T)Z=Y()H[Z]=a T=712795-712795 u=H[N]a=u(T,O)T=Y()c=370059-370057 H[T]=a O=-203799+203800 u=H[N]S=H[Z]a=u(O,S)k=A(478869-450546)O=Y()H[O]=a a=H[N]S=a(C,c)a=315015-315014 u=S==a c=A(-542009-(-570321))S=Y()H[S]=u a=A(994442+-966133)E=I[k]V=858970+-848970 u=A(167705+-139406)x=H[N]z={x(d,V)}u=v[u]k=E(b(z))E=A(-495393+523705)L=k..E C=c..L u=u(v,a,C)C=Y()H[C]=u c=A(738064-709746)L=B(-793015-(-1015864),{N;y;n,w;m,G,S;C;Z;O,T,i})a=I[c]c={a(L)}u={b(c)}c=u u=H[S]u=u and-510504+9788496 or 14907329-659990 end else if u<-783476+12752348 then u=J(-694337+12177022,{p})r={u()}a={b(r)}u=I[A(-529333+557654)]else u=E a=L u=7667027-(-15938)end end end end else if u<330639+14399278 then if u<13413390-(-687779)then if u<912090+12103506 then if u<801645+12177032 then if u<12200616-(-733848)then a=A(233148-204841)u=I[a]g=A(781218+-752883)a=u(g)u=I[A(359091+-330747)]a={}else u=true u=u and 972437+9902051 or 332411+11559173 end else h=a N=A(-585930+614259)F=A(-504234-(-532544))l=A(306860+-278550)a=I[N]N=A(-313118-(-341463))u=a[N]N=Y()H[N]=u a=I[F]F=A(-743868+772182)u=a[F]F=u K=I[l]i=K n=u u=K and 14471907-(-881068)or-457693+8733940 end else if u<13885880-709691 then m=H[s[-211102-(-211104)]]w=731545+-731484 g=m*w m=-344466+28147723891907 a=g+m g=-34258+35184372123090 m=-772557+772558 u=a%g H[s[370328-370326]]=u u=142220-(-758422)g=H[s[653965+-653962]]a=g~=m else F=n P=A(-683942+712261)r=I[P]P=A(-526640-(-554940))M=r[P]r=M(g,F)M=H[s[-925159+925165]]P=M()G=r+P v=G+h u=-527300+692274 P=163368-163367 G=-846729-(-846985)Q=v%G h=Q G=w[m]r=h+P M=p[r]F=nil v=G..M w[m]=v end end else if u<-300890+14751745 then if u<-522774+14770130 then E=H[m]L=E u=E and-490610+4533383 or-332189+7930482 else g=e m=Y()p=Y()u=true H[m]=u w=A(53630+-25311)a=I[w]w=A(-895120+923423)u=a[w]w=Y()H[w]=u u=X(13453275-967837,{})H[p]=u q=Y()u=false N=A(711466+-683148)H[q]=u h=I[N]F=J(4451370-401024,{q})N=h(F)u=N and 482277+15156513 or 13324244-332257 a=N end else if u<15470401-912351 then g=A(-651928-(-680235))w=948374+-948374 u=I[g]m=H[s[-889123-(-889131)]]g=u(m,w)u=1014931+8314041 else G=953661-953660 t=#Q u=10981159-530722 v=p(G,t)T=-19261-(-19262)G=h(Q,v)v=nil t=H[l]Z=G-T y=N(Z)t[G]=y G=nil end end end else if u<572945+14781821 then if u<14878187-(-395957)then if u<15950805-712286 then if u<-42423+15078659 then m=H[s[338678+-338676]]w=H[s[-838035+838038]]g=m==w u=9873858-(-425357)a=g else v=G T=v Q[v]=T u=5770718-(-813586)v=nil end else u=-198394+7043859 w=H[s[-1003509-(-1003515)]]m=w==g a=m end else if u<15672603-339476 then u=I[A(347536+-319231)]a={m}else Q=A(-755903+784213)l=I[Q]Q=A(-460170+488510)K=l[Q]i=K u=993240+7283007 end end else if u<15096864-(-546015)then if u<-562048+16191979 then i=Y()H[i]=a n=-80332-(-80335)v=j(7477485-(-1022398),{})u=H[N]K=808891+-808826 a=u(n,K)Q=A(-158400-(-186718))n=Y()H[n]=a u=-687209-(-687209)K=u u=41197+-41197 l=u P=A(741511+-713188)a=I[Q]Q={a(v)}u={b(Q)}Q=u a=705727-705725 u=Q[a]v=u a=A(-45888+74221)u=I[a]G=H[w]r=I[P]P=r(v)r=A(-220424+248733)M=G(P,r)G={M()}a=u(b(G))G=Y()H[G]=a M=H[n]a=-803032+803033 r=M M=389835+-389834 P=M M=-693105+693105 u=30592+4596189 t=P<M M=a-P else u=13598909-606922 h=H[q]a=h end else if u<-856018+17025719 then u=628426+7773100 else p=nil N=nil u=-827935+16118819 h=nil end end end end end end end u=#U return b(a)end,function(I)for A=916366+-916365,#I,204241+-204240 do g[I[A]]=(-141614-(-141615))+g[I[A]]end if e then local u=e(true)local b=U(u)b[A(-993956-(-1022273))],b[A(889761+-861453)],b[A(-3191+31511)]=I,p,function()return-834371+3090967 end return u else return s({},{[A(972132+-943824)]=p;[A(829966+-801649)]=I;[A(-356135-(-384455))]=function()return 2379532-122936 end})end end,-636707+636707,function(I,A)local b=w(A)local e=function(...)return u(I,{...},A,b)end return e end,{}return(q(14658850-411204,{}))(b(a))end)(getfenv and getfenv()or _ENV,unpack or table[A(-606065-(-634405))],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+local key = loadstring(game:HttpGet("https://pastebin.com/raw/62f2jF5f",true))() -- put youre key in here
+ 
+local keylink = "Kupal.Bingotka" -- put your key link here
+ 
+local nameofthescript = "SailynxShi Key" --put your script name here. leave blank too leave blank ig
+ 
+local whoisitmadeby = "SAILYN" -- put your name here
+ 
+local thenoteofthekey = "PUTANG INA NIYO MGA BINGOT, CTX, ONYX!" --note you add here. leave blank to not have a note.
+ 
+-- Instances:
+ 
+local ScreenGui = Instance.new("ScreenGui")
+local KeySystem = Instance.new("Frame")
+local KeyTextbox = Instance.new("TextBox")
+local UICorner = Instance.new("UICorner")
+local UICorner_2 = Instance.new("UICorner")
+local title = Instance.new("TextLabel")
+local TextButton = Instance.new("TextButton")
+local UICorner_3 = Instance.new("UICorner")
+local scriptname = Instance.new("TextLabel")
+local madeby = Instance.new("TextLabel")
+local note = Instance.new("TextLabel")
+--Properties:
+ 
+ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+ 
+KeySystem.Name = "KeySystem"
+KeySystem.Parent = ScreenGui
+KeySystem.BackgroundColor3 = Color3.fromRGB(150, 45, 200)
+KeySystem.BorderColor3 = Color3.fromRGB(50, 0, 50)
+KeySystem.BorderSizePixel = 0
+KeySystem.Position = UDim2.new(0.379651636, 0, 0.32965821, 0)
+KeySystem.Size = UDim2.new(0.240300864, 0, 0.340683579, 0)
+KeySystem.Selectable = true
+KeySystem.Active = true
+KeySystem.Draggable = true
+ 
+KeyTextbox.Name = "KeyTextbox"
+KeyTextbox.Parent = KeySystem
+KeyTextbox.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+KeyTextbox.BackgroundTransparency = 0.950
+KeyTextbox.BorderColor3 = Color3.fromRGB(0, 0, 0)
+KeyTextbox.BorderSizePixel = 0
+KeyTextbox.Position = UDim2.new(0.0939044505, 0, 0.734627843, 0)
+KeyTextbox.Size = UDim2.new(0.813838542, 0, 0.161812291, 0)
+KeyTextbox.Font = Enum.Font.Gotham
+KeyTextbox.Text = "Enter Key"
+KeyTextbox.TextColor3 = Color3.fromRGB(255, 255, 255)
+KeyTextbox.TextScaled = true
+KeyTextbox.TextSize = 14.000
+KeyTextbox.TextWrapped = true
+ 
+UICorner.CornerRadius = UDim.new(0, 15)
+UICorner.Parent = KeyTextbox
+ 
+UICorner_2.CornerRadius = UDim.new(0, 15)
+UICorner_2.Parent = KeySystem
+ 
+title.Name = "title"
+title.Parent = KeySystem
+title.BackgroundColor3 = Color3.fromRGB(255, 0, 255)
+title.BackgroundTransparency = 1.000
+title.BorderColor3 = Color3.fromRGB(0, 0, 0)
+title.BorderSizePixel = 0
+title.Position = UDim2.new(0, 0, 0.0323624611, 0)
+title.Size = UDim2.new(1, 0, 0.197411001, 0)
+title.Font = Enum.Font.Gotham
+title.Text = "KEY SYSTEM"
+title.TextColor3 = Color3.fromRGB(255, 0, 255)
+title.TextScaled = true
+title.TextSize = 14.000
+title.TextWrapped = true
+ 
+TextButton.Parent = KeySystem
+TextButton.BackgroundColor3 = Color3.fromRGB(25, 255, 25)
+TextButton.BackgroundTransparency = 0.950
+TextButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextButton.BorderSizePixel = 0
+TextButton.Position = UDim2.new(0.0922570005, 0, 0.504854381, 0)
+TextButton.Size = UDim2.new(0.813838542, 0, 0.161812291, 0)
+TextButton.Font = Enum.Font.Gotham
+TextButton.Text = "Check Key"
+TextButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton.TextScaled = true
+TextButton.TextSize = 14.000
+TextButton.TextWrapped = true
+TextButton.MouseButton1Click:Connect(function()
+	if KeyTextbox.Text == key then
+		TextButton.Text = "PALO Correct Key!"
+		task.wait(1)
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Kyypie69/Muscle-Legends/refs/heads/main/AutoKillCode.txt",true))() -- insert script on this line
+		ScreenGui:Destroy()
+	else
+		TextButton.Text = "TANGINA MO Wrong Key!"
+		task.wait(2)
+		TextButton.Text = "Check Key"
+	end
+end)
+ 
+UICorner_3.CornerRadius = UDim.new(0, 15)
+UICorner_3.Parent = TextButton
+ 
+scriptname.Name = "scriptname"
+scriptname.Parent = KeySystem
+scriptname.BackgroundColor3 = Color3.fromRGB(255, 0, 255)
+scriptname.BackgroundTransparency = 1.000
+scriptname.BorderColor3 = Color3.fromRGB(0, 0, 0)
+scriptname.BorderSizePixel = 0
+scriptname.Position = UDim2.new(0, 0, 0.262135923, 0)
+scriptname.Size = UDim2.new(1, 0, 0.0809061453, 0)
+scriptname.Font = Enum.Font.Gotham
+scriptname.Text = nameofthescript
+scriptname.TextColor3 = Color3.fromRGB(25, 255, 25)
+scriptname.TextScaled = true
+scriptname.TextSize = 14.000
+scriptname.TextWrapped = true
+ 
+madeby.Name = "madeby"
+madeby.Parent = KeySystem
+madeby.BackgroundColor3 = Color3.fromRGB(255, 0, 255)
+madeby.BackgroundTransparency = 1.000
+madeby.BorderColor3 = Color3.fromRGB(0, 0, 0)
+madeby.BorderSizePixel = 0
+madeby.Position = UDim2.new(0, 0, 0.368932039, 0)
+madeby.Size = UDim2.new(1, 0, 0.0809061453, 0)
+madeby.Font = Enum.Font.Gotham
+madeby.Text = "Made by: " .. whoisitmadeby
+madeby.TextColor3 = Color3.fromRGB(25, 255, 25)
+madeby.TextScaled = true
+madeby.TextSize = 14.000
+madeby.TextWrapped = true
+madeby.Visible = true
+ 
+note.Name = "note"
+note.Parent = KeySystem
+note.BackgroundColor3 = Color3.fromRGB(255, 0, 255)
+note.BackgroundTransparency = 1.000
+note.BorderColor3 = Color3.fromRGB(0, 0, 0)
+note.BorderSizePixel = 0
+note.Position = UDim2.new(0, 0, 0.919093847, 0)
+note.Size = UDim2.new(1, 0, 0.0809061453, 0)
+note.Font = Enum.Font.Gotham
+note.Text = thenoteofthekey
+note.TextColor3 = Color3.fromRGB(25, 255, 25)
+note.TextScaled = true
+note.TextSize = 14.000
+note.TextWrapped = true
+ 
+scriptname.Text = "Key Link Copied!"
+setclipboard(keylink)
+task.wait(3)
+scriptname.Text = nameofthescript
